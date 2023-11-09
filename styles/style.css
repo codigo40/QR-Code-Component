@@ -38,11 +38,13 @@ width: 325px;
     text-align: center;
     font-size: 1.4rem;
     padding-top: 1rem;
+    color: var(--Dark-blue);
 }
 
 .paragraph{
 text-align: center;
 padding: 1rem 1rem ;
+color: var(--Grayish-blue);
 
 }
 
